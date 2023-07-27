@@ -1,0 +1,11 @@
+D:\Projects\C#\FarmController\FarmController\bin\Release\FarmController.exe.config
+D:\Projects\C#\FarmController\FarmController\bin\Release\FarmController.exe
+D:\Projects\C#\FarmController\FarmController\bin\Release\FarmController.pdb
+D:\Projects\C#\FarmController\FarmController\obj\Release\FarmController.csproj.AssemblyReference.cache
+D:\Projects\C#\FarmController\FarmController\obj\Release\FarmController.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C#\FarmController\FarmController\obj\Release\FarmController.Form1.resources
+D:\Projects\C#\FarmController\FarmController\obj\Release\FarmController.Properties.Resources.resources
+D:\Projects\C#\FarmController\FarmController\obj\Release\FarmController.csproj.GenerateResource.cache
+D:\Projects\C#\FarmController\FarmController\obj\Release\FarmController.csproj.CoreCompileInputs.cache
+D:\Projects\C#\FarmController\FarmController\obj\Release\FarmController.exe
+D:\Projects\C#\FarmController\FarmController\obj\Release\FarmController.pdb
